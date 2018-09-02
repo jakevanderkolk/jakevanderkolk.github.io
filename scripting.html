@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+        <title>Jacob A. van der Kolk, Ph.D.: Coding and Digital Humanities</title>
+        <link rel="stylesheet" href="jvdk.css" />
+        <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
+    </head>
+    <body>
+        <header style="background-image: url(hostsblock-end.jpg);background-attachment: fixed;">
+            <nav>
+                <a class="header" href="index.html">About</a> &bull;
+                <a class="header" href="cv.html">Curriculum Vitae</a> &bull;
+                <a class="header" href="teaching.html">Teaching</a> &bull;
+                <a class="header" href="wip.html">Works&nbsp;in&nbsp;Progress</a> &bull;
+                Coding&nbsp;&amp;&nbsp;Digital&nbsp;Humanities
+            </nav>
+            <div class="headertitle">
+                <h1 class="header">Jacob A. van der Kolk, Ph.D.</h1>
+                <h2 class="header">Instructor, Translator, Erstwhile Coder</h2>
+            </div>
+            <p class="header" style="float: bottom;"><a class="header" href="mailto:jakevanderkolk@protonmail.com">jakevanderkolk@protonmail.com</a> (<a class="header" href="./jvdk.asc">PGP Public Key</a>)</p>
+        </header>
+        <article>
+            <h3>Coding/Scripting Projects</h3>
+            <h5><em>Hostsblock</em>: An ad- and malware-blocking cronscript for Linux</h5>
+            <p><strong><em>Hostsblock</em></strong> is a bash script for Linux designed to take advantage of the <a href="https://en.wikipedia.org/wiki/Hosts_file">HOSTS file</a> available in all operating systems to provide <a href="http://winhelp2002.mvps.org/hosts.htm">system-wide blocking</a> of internet advertisements, malicious domains, trackers, and other undesirable content. To do so, it downloads a configurable set of blocklists and processes their entries into a single HOSTS file.</p>
+            <p><em>Hostsblock</em> also includes <em>hostsblock-urlcheck</em>, a command-line utility that allows you to block and unblock certain websites and any other domains contained in that website, in the event that the included blocklists don't block enough or block too little on a specific site.</p>
+            <div class="nav">
+                <a href="https://github.com/gaenserich/hostsblock">Github site</a> &bull;
+                <a href="https://bbs.archlinux.org/viewtopic.php?id=139784">Forum</a> &bull;
+                <a href="https://aur.archlinux.org/packages.php?ID=58976">AUR</a>
+            </div>
+            <h5>Textual Analysis Scripts</h5>
+            <p>As part of my dissertation and follow up publications, I created several scripts designed to provide quantitative analysis of texts, such as relative word affinities (how disproportionately particular words appear near other particular words.)</p>
+            <div class="nav">
+                <a href="https://github.com/gaenserich/The-Self-Destructing-Text">Github site</a>
+            </div>
+            <h5><em>update-gcalendar</em>: A Conky script for Google Calendar.</h5>
+            <p><strong><em>update-gcalendar</em></strong> is a <a href="http://www.perl.org/">perl</a> script that outputs calendar information to <a href="http://conky.sourceforge.net/">conky</a>. It requires: <a href="https://github.com/insanum/gcalcli">gcalcli</a>.</p>
+            <p>Download: <a href="./update-gcalendar.pl.xz">update-gcalendar.pl.xz</a></p>
+            <h5><em>update-mail</em>: A Gmail notification script.</h5>
+            <p><strong><em>update-mail</em></strong> is a <a href="http://www.perl.org/">perl</a> script that provides <a href="http://www.galago-project.org/news/">libnotify</a> pop-ups and/or an output file for conky to display. It requires <a href="http://curl.haxx.se/">curl</a>.</p>
+            <p>Download: <a href="./update-mail.pl.xz">update-mail.pl.xz</a></p>
+        </article>
+        <footer style="background-image: url(hostsblock-end.jpg);background-attachment: fixed;">
+            <nav class="footer">
+                <a class="header" href="index.html">About</a> &bull;
+                <a class="header" href="cv.html">Curriculum Vitae</a> &bull;
+                <a class="header" href="teaching.html">Teaching</a> &bull;
+                <a class="header" href="wip.html">Works&nbsp;in&nbsp;Progress</a> &bull;
+                Coding&nbsp;&amp;&nbsp;Digital&nbsp;Humanities
+            </nav>
+            &copy; 2018 Jacob van der Kolk. Built by hand with
+            <a href="http://www.archlinux.org"><img srcset="arch.png" title="Arch Linux" alt="Arch Linux" class="icon" /></a>
+            <a href="http://www.w3.org/html/logo/"><img srcset="html5.png" title="HTML5 Powered with CSS3 / Styling, and Semantics" alt="HTML5 Powered with CSS3 / Styling, and Semantics" class="icon" /></a>
+            <a href="http://www.gimp.org/"><img srcset="gimp.png" title="The GIMP" alt="The GIMP" class="icon" /></a>
+            <a href="https://www.nano-editor.org/"><img srcset="nano.png" title="GNU Nano" alt="GNU Nano" class="icon" /></a>
+        </footer>
+    </body>
+</html>
