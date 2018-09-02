@@ -1,0 +1,14 @@
+b {
+    color: darkgreen; 
+    font-weight: bold;
+}
+
+u {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+del {
+    color: darkgreen;
+    text-decoration: line-through;
+}
