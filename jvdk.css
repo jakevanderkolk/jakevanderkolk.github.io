@@ -42,7 +42,7 @@ h1.header {
     padding:0em;
     padding-top: 0em;
     margin:0em;
-    font-size:4em;
+    font-size:3em;
 }
 
 div.headertitle {
@@ -57,7 +57,7 @@ div.headertitle {
 h2.header {
     padding:0em;
     margin:0em;
-    font-size:2em;
+    font-size:1.5em;
     width:100%;
 }
 p.header{
@@ -113,7 +113,7 @@ article {
 }
 nav {
     text-align: right;
-    padding: 0.25em;
+    padding: 0.5em;
     padding-left: 1em;
     padding-right: 1em;
     font-weight: bold;
@@ -128,7 +128,7 @@ footer {
     border-bottom-right-radius: 1em;
     border-bottom-left-radius: 1em;
     background-size: cover;
-    background-position: center center;
+    background-position: center bottom;
     background-image: url(bundesgartensee.jpg);
     text-shadow:
     -1px -1px 0 #000,
@@ -140,7 +140,14 @@ img.icon {
     height: 1em;
 }
 .nav {
-    float: top;
+    text-align: center;
+    font-size: 0.9em;
+    font-weight: bold;
+    padding: 0em;
+    padding-right: 0.25em;
+    padding-left: 0.75em;
+}
+.nav2 {
     text-align: center;
     font-size: 0.9em;
     font-weight: bold;
@@ -213,7 +220,7 @@ nav.footer {
     text-align: right;
     padding:0;
     margin:0;
-    padding-top: 0.25em;
+    padding-top: 0.5em;
     padding-bottom: 1em;
     font-weight: bold;
 }
