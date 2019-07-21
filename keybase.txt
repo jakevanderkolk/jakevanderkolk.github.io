@@ -1,0 +1,54 @@
+https://keybase.io/jakevanderkolk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jakevanderkolk.xyz
+  * I am jakevanderkolk (https://keybase.io/jakevanderkolk) on keybase.
+  * I have a public key ASCNI03XoUf5VWRBaBRqkusbdHWeJszeaFwKNBdajAoCQwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101775d6ad1c77c2a0564d7358c320bd6c34c381402d24bb6a79a33c45bbf5f6d7a0a",
+      "host": "keybase.io",
+      "kid": "01208d234dd7a147f955644168146a92eb1b74759e26ccde685c0a34175a8c0a02430a",
+      "uid": "1c1e1982843c78d9c6aa9dd16ed08719",
+      "username": "jakevanderkolk"
+    },
+    "merkle_root": {
+      "ctime": 1563713400,
+      "hash": "f4bb2bb72a8b8fc1575dcee7cd213cb700748c8ce8332c4a3b7e4e678d4374c84358bea377ddf1fa74b101ec653fb18c54ac85a2f60fd2ccd1b919983a2b8b46",
+      "hash_meta": "dce1c8b8dd18bdd6e14c7c6233517a5be858a05755c8313451919ac8fecf20e5",
+      "seqno": 5815001
+    },
+    "service": {
+      "entropy": "ZLo48Qjvj7aSk78jFv1hT608",
+      "hostname": "jakevanderkolk.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563713417,
+  "expire_in": 504576000,
+  "prev": "17439c8ddae1e3379541a10deb9dbcd7ec77703f77ee4922505af0a715bb1939",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjSNN16FH+VVkQWgUapLrG3R1nibM3mhcCjQXWowKAkMKp3BheWxvYWTESpcCC8QgF0Ocjdrh4zeVQaEN65281+x3cD937kkiUFrwpxW7GTnEIGcWiSn++lmxd+CKNJHJsLQ+IMwU8b/zILXnmQiWKvSRAgHCo3NpZ8RA
+bkR15iEnU0fY4hqulUGoY102g6gWCL3+e8p0SQnj35n2QyVa2ArqSqgDvvxW9T5R8sYoT9ILaOxbKynAg1h8AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBT5h7V/2DH+I6pt2OITWEUgNLiwi1pyU48BXrQBWEJLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jakevanderkolk
