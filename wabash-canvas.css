@@ -1,3 +1,7 @@
+em {
+    font-family:monospace,monospace,monospace;
+    font-style:normal;
+}
 table {
     border-collapse: collapse;
     color: black;
