@@ -179,6 +179,7 @@ h4 {
     color:rgb(205, 14, 44);
     font-size: 1.17em;
     margin-bottom:0.25em;
+    clear: both;
 }
 .note {
     margin-left: 2em;
