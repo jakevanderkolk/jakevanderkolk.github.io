@@ -241,6 +241,7 @@ td, tr {
 }
 table {
     border-collapse: collapse;
+    text-align: left;
 }
 .aspect-ratio {
     position: relative;
