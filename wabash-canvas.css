@@ -2,6 +2,10 @@ em {
     font-family:monospace,monospace,monospace;
     font-style:normal;
 }
+article {
+    padding: 1em;
+    background-color: white;
+}
 table {
     border-collapse: collapse;
     color: black;
@@ -26,6 +30,15 @@ li {
     margin: 0.5em 0;
 }
 body {
+    background-color: lightgray;
+    margin: 2em;
+    margin-top: 1em;
+    font-family:sans-serif,sans-serif,sans-serif;
+    font-size: 1em;
+    text-align: justify;
+    box-shadow: 1em 1em 1em #aaaaaa;
+    overflow: auto;
+    border-radius: 1em;
     text-align: justify;
 }
 img.icon {
