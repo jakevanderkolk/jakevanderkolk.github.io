@@ -79,7 +79,8 @@ img.icon {
 p {
     margin-top: 0em;
     margin-bottom: 0.5em;
-    padding-left: 2em;
+    padding-left: 3em;
+    text-indent: -1em;
 }
 h1 {
     text-align: center;
@@ -100,6 +101,8 @@ h3 {
     font-size:1.1em;
     margin-left: 1em;
     margin-bottom: 0.25em;
+    padding-left: 1em;
+    text-indent: -1em;
 }
 h6 {
     text-decoration:underline;
